@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, GitHub");
+﻿Sportsball a = Sportsball.Baseball;
+		Sportsball b = Sportsball.Tenisball;
+		Console.WriteLine(a);
+		Console.WriteLine(b);
+		GetSportsball z = new GetSportsball();
+		GetSportsball y = new GetSportsball();
+		z.Basketball = "Hello";
+		y.Basketball = " world!";
+		Console.Write(z.Basketball);
+        Console.WriteLine(y.Basketball);
