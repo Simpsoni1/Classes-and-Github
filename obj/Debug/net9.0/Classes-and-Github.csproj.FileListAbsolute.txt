@@ -1,0 +1,15 @@
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\bin\Debug\net9.0\Classes-and-Github.exe
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\bin\Debug\net9.0\Classes-and-Github.deps.json
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\bin\Debug\net9.0\Classes-and-Github.runtimeconfig.json
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\bin\Debug\net9.0\Classes-and-Github.dll
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\bin\Debug\net9.0\Classes-and-Github.pdb
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.AssemblyInfoInputs.cache
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.AssemblyInfo.cs
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.sourcelink.json
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.dll
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\refint\Classes-and-Github.dll
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.pdb
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\Classes-and-Github.genruntimeconfig.cache
+C:\Users\Isaia\Documents\GitHub Repositories\Classes-and-Github\obj\Debug\net9.0\ref\Classes-and-Github.dll
